@@ -2,7 +2,7 @@
   whatsapp: "+60198908285",
   telegram: "lerryws",
   email: "lerryws.xyz@outlook.com",
-  call_to_action: "Do you need help?",
+  call_to_action: "Question or Inquiry?",
   button_color: "#6dcc6e",
   position: "right",
   order: "whatsapp,telegram,email",
